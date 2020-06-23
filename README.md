@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexandrevanel/formation2020/?urlpath=refraction2.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alexandrevanel/formation2020/master?filepath=refraction2.ipynb)
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/alexandrevanel/formation2020/?urlpath=refraction2.ipynb
+ :target: https://mybinder.org/v2/gh/alexandrevanel/formation2020/master?filepath=refraction2.ipynb
  
 # formation2020
 ### Document de formation à Jupyter
